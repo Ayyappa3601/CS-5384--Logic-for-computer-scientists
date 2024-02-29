@@ -1,3 +1,5 @@
+// CNF file for project code
+
 c There are 25 positions
 c the clauses for 5-queen are below
 p cnf 25 170
